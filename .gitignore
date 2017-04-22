@@ -1,0 +1,10 @@
+
+.htaccess
+
+*.txt
+
+index.php
+
+node_modules/
+site/assets/
+wire/
